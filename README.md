@@ -1,16 +1,69 @@
-## Hi there 👋
+```
+> Reflect → Think → Act → Iterate → Verify
+```
 
-<!--
-**SigvardsK/SigvardsK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sigvards K.
 
-Here are some ideas to get you started:
+VC investor turned founder. Building AI systems that augment human judgment, not replace it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Thesis:  Autonomy hits a ceiling at judgment.
+         Augmentation is the moat.
+```
+
+### What I build
+
+I design Claude Code architectures that turn solo founders into small, effective teams — decision frameworks, multi-agent patterns, and operational systems that compound over time.
+
+**Domains:** Healthcare, compliance, SaaS, deep-tech
+**Mode:** Consulting + open-source tooling
+
+### Open source
+
+| Skill | What it does |
+|-------|-------------|
+| [`/spec`](https://github.com/SigvardsK/claude-code-spec) | Structured specification discovery. Turns vague requirements into buildable scope before you write a line of code. |
+
+### Principles
+
+```
+1. Truth        — first principles, verified facts
+2. Velocity     — when reversible; otherwise Impact
+3. Impact       — magnitude × likelihood
+4. Empathy      — people consequences, dignity preserved
+5. Aesthetics   — clarity as elegance
+```
+
+<details>
+<summary>How I classify decisions</summary>
+
+```
+┌─────────────────────────────────────────────┐
+│           Is this reversible?               │
+│                                             │
+│     YES (Type-R)        NO (Type-I)         │
+│       │                     │               │
+│   Confidence ≥ 0.6?    Full deliberation.   │
+│    │         │          Evidence. Values.    │
+│   YES       NO          Risk. Impact.       │
+│    │         │          Confidence. Effort.  │
+│ Proceed.  State the                         │
+│           tradeoff,                         │
+│           make the call.                    │
+└─────────────────────────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary>The uncomfortable question I ask every project</summary>
+
+*"What would have to be true for the opposite to make sense?"*
+
+If you can't answer that, you don't understand your own position well enough to hold it.
+
+</details>
+
+---
+
+[Substack](https://substack.com/@sigvardsk) · [LinkedIn](https://www.linkedin.com/in/sigvardsk/) · Riga, Latvia
