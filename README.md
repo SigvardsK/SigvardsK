@@ -16,7 +16,6 @@ Thesis:  Autonomy hits a ceiling at judgment.
 I design Claude Code architectures that turn solo founders into small, effective teams — decision frameworks, multi-agent patterns, and operational systems that compound over time.
 
 **Domains:** Healthcare, compliance, SaaS, deep-tech
-**Mode:** Consulting + open-source tooling
 
 ### Open source
 
