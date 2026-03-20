@@ -65,4 +65,4 @@ If you can't answer that, you don't understand your own position well enough to 
 
 ---
 
-[Substack](https://substack.com/@sigvardsk) · [LinkedIn](https://www.linkedin.com/in/sigvardsk/) · [X]([https://x.com/SigvardsK]) 
+[Substack](https://substack.com/@sigvardsk) · [LinkedIn](https://www.linkedin.com/in/sigvardsk/) · [X](https://x.com/SigvardsK) 
