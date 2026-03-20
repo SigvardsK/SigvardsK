@@ -2,7 +2,7 @@
 > Reflect → Think → Act → Iterate → Verify
 ```
 
-# Sigvards K.
+# SigvardsK
 
 VC investor turned founder. Building AI systems that augment human judgment, not replace it.
 
