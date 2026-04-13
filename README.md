@@ -19,8 +19,9 @@ I design Claude Code architectures that turn solo founders into small, effective
 
 ### Open source
 
-| Skill | What it does |
-|-------|-------------|
+| Project | What it does |
+|---------|-------------|
+| [`Solo-leveling-the-system`](https://github.com/SigvardsK/Solo-leveling-the-system) | Solo Leveling-inspired gamification for knowledge workers. Tracks real activity as RPG stats with a dark sci-fi HUD, stat decay, streak multipliers, and a 3D awakening sequence. |
 | [`/spec`](https://github.com/SigvardsK/claude-code-spec) | Structured specification discovery. Turns vague requirements into buildable scope before you write a line of code. |
 
 ### Principles
