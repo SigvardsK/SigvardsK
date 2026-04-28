@@ -21,6 +21,7 @@ I design Claude Code architectures that turn solo founders into small, effective
 
 | Project | What it does |
 |---------|-------------|
+| [`eu-aml-screening`](https://github.com/SigvardsK/eu-aml-screening) | Self-hostable AML/KYC screening that refuses to silently clear. Playwright captures timestamped evidence per check across sanctions / PEP / registry / adverse-media sources; tri-state classifier surfaces ambiguity for human review; PDF + pre-filled Latvian Bar annexes ready for filing. |
 | [`Solo-leveling-the-system`](https://github.com/SigvardsK/Solo-leveling-the-system) | Solo Leveling-inspired gamification for knowledge workers. Tracks real activity as RPG stats with a dark sci-fi HUD, stat decay, streak multipliers, and a 3D awakening sequence. |
 | [`/spec`](https://github.com/SigvardsK/claude-code-spec) | Structured specification discovery. Turns vague requirements into buildable scope before you write a line of code. |
 
